@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.76.0 commit date:2015-11-03, commit time:10:56, hash:f337fea</authoring_tool>
+    </contributor>
+    <created>2016-05-07T10:40:42</created>
+    <modified>2016-05-07T10:40:42</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images>
+    <image id="TTR_SMRoof01_001" name="TTR_SMRoof01_001">
+      <init_from>TTR_SMRoof01.001.tga</init_from>
+    </image>
+    <image id="TTR_SMStone04a_001" name="TTR_SMStone04a_001">
+      <init_from>TTR_SMStone04a.001.tga</init_from>
+    </image>
+    <image id="TTR_SMCityWall01e_001" name="TTR_SMCityWall01e_001">
+      <init_from>TTR_SMCityWall01e.001.tga</init_from>
+    </image>
+  </library_images>
+  <library_effects>
+    <effect id="TTR_SMRoof01-effect">
+      <profile_COMMON>
+        <newparam sid="TTR_SMRoof01_001-surface">
+          <surface type="2D">
+            <init_from>TTR_SMRoof01_001</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="TTR_SMRoof01_001-sampler">
+          <sampler2D>
+            <source>TTR_SMRoof01_001-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="TTR_SMRoof01_001-sampler" texcoord="UVChannel_1"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="TTR_SMStone04a-effect">
+      <profile_COMMON>
+        <newparam sid="TTR_SMStone04a_001-surface">
+          <surface type="2D">
+            <init_from>TTR_SMStone04a_001</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="TTR_SMStone04a_001-sampler">
+          <sampler2D>
+            <source>TTR_SMStone04a_001-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="TTR_SMStone04a_001-sampler" texcoord="UVChannel_1"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="material_2_005-effect">
+      <profile_COMMON>
+        <newparam sid="material_2_031-surface">
+          <surface type="2D">
+            <init_from>material_2_031</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="material_2_031-sampler">
+          <sampler2D>
+            <source>material_2_031-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="material_2_031-sampler" texcoord="UVChannel_1"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="TTR_SMCityWall01e-effect">
+      <profile_COMMON>
+        <newparam sid="TTR_SMCityWall01e_001-surface">
+          <surface type="2D">
+            <init_from>TTR_SMCityWall01e_001</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="TTR_SMCityWall01e_001-sampler">
+          <sampler2D>
+            <source>TTR_SMCityWall01e_001-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="TTR_SMCityWall01e_001-sampler" texcoord="UVChannel_1"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="TTR_SMRoof01-material" name="TTR_SMRoof01">
+      <instance_effect url="#TTR_SMRoof01-effect"/>
+    </material>
+    <material id="TTR_SMStone04a-material" name="TTR_SMStone04a">
+      <instance_effect url="#TTR_SMStone04a-effect"/>
+    </material>
+    <material id="material_2_005-material" name="material_2_005">
+      <instance_effect url="#material_2_005-effect"/>
+    </material>
+    <material id="TTR_SMCityWall01e-material" name="TTR_SMCityWall01e">
+      <instance_effect url="#TTR_SMCityWall01e-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="TTR_SMRoofGable01-mesh" name="TTR_SMRoofGable01">
+      <mesh>
+        <source id="TTR_SMRoofGable01-mesh-positions">
+          <float_array id="TTR_SMRoofGable01-mesh-positions-array" count="90">0 -64 153.1836 40 -64 97.1836 40 64 97.1836 0 64 153.1836 40 -64 97.1836 40 -64 0 40 64 0 40 64 97.1836 40 -64 0 -40 -64 0 -40 64 0 40 64 0 -40 -64 0 -40 -64 97.1836 -40 64 97.1836 -40 64 0 -40 -64 97.1836 0 -64 153.1836 0 64 153.1836 -40 64 97.1836 -40 -64 97.1836 40 -64 97.1836 0 -64 153.1836 -40 -64 0 40 -64 0 -40 64 97.1836 0 64 153.1836 40 64 97.1836 -40 64 0 40 64 0</float_array>
+          <technique_common>
+            <accessor source="#TTR_SMRoofGable01-mesh-positions-array" count="30" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="TTR_SMRoofGable01-mesh-normals">
+          <float_array id="TTR_SMRoofGable01-mesh-normals-array" count="69">0.4229039 2.34832e-5 0.9061746 0.952292 1.46473e-5 0.3051885 0.7505592 0.5713061 0.3320698 -0.3752411 0.4610869 0.8041101 -0.9144865 9.66336e-6 0.4046165 0.4229022 4.71909e-5 0.9061754 -0.3752728 0.4611458 0.8040614 -0.8431316 0.4648758 0.2702215 0.9522991 1.45782e-5 0.3051666 1 0 0 0.7070898 0.7071238 3.39403e-5 0.750549 0.571335 0.332043 0 -1 0 -1 0 0 -0.9144958 1.94196e-5 0.4045955 -0.8431473 0.4648758 0.2701721 -0.4472246 0.8944218 4.27275e-5 0 0 -1 -0.8431187 0.4648864 0.2702435 -0.375277 0.4611473 0.8040587 0.7505744 0.5713076 0.332033 -0.4472246 0.8944218 2.14657e-5 0.7070899 0.7071238 2.37259e-4</float_array>
+          <technique_common>
+            <accessor source="#TTR_SMRoofGable01-mesh-normals-array" count="23" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="TTR_SMRoofGable01-mesh-map-0">
+          <float_array id="TTR_SMRoofGable01-mesh-map-0-array" count="96">1.78 1.06 1.78 -0.05999994 -0.78 -0.05999994 1.78 1.06 -0.78 -0.05999994 -0.78 1.06 -0.78 -0.05999994 -0.78 1.06 1.78 1.06 -0.78 -0.05999994 1.78 1.06 1.78 -0.05999994 9e-4 0 9e-4 1 -1.9991 1 9e-4 0 -1.9991 1 -1.9991 0 0 0 0 0.5 1 0 1 0 0 0.5 1 0.5 1 0.5 0 0.5 0.5 1 0.9991 1 0.9991 0 2.9991 0 0.9991 1 2.9991 0 2.9991 1 0.3787 0 0.6213 0 0.6213 1 0.3787 0 0.6213 1 0.3787 1 0.5626 0.5752 0.2549 1.0747 -0.05279999 0.5752 0.5626 0.07569998 0.5626 0.5752 -0.05279999 0.5752 -0.05279999 0.07569998 0.5626 0.07569998 -0.05279999 0.5752</float_array>
+          <technique_common>
+            <accessor source="#TTR_SMRoofGable01-mesh-map-0-array" count="48" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="TTR_SMRoofGable01-mesh-colors-Col" name="Col">
+          <float_array id="TTR_SMRoofGable01-mesh-colors-Col-array" count="144">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</float_array>
+          <technique_common>
+            <accessor source="#TTR_SMRoofGable01-mesh-colors-Col-array" count="48" stride="3">
+              <param name="R" type="float"/>
+              <param name="G" type="float"/>
+              <param name="B" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="TTR_SMRoofGable01-mesh-vertices">
+          <input semantic="POSITION" source="#TTR_SMRoofGable01-mesh-positions"/>
+        </vertices>
+        <polylist material="TTR_SMRoof01-material" count="4">
+          <input semantic="VERTEX" source="#TTR_SMRoofGable01-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#TTR_SMRoofGable01-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#TTR_SMRoofGable01-mesh-map-0" offset="2" set="0"/>
+          <input semantic="COLOR" source="#TTR_SMRoofGable01-mesh-colors-Col" offset="3" set="0"/>
+          <vcount>3 3 3 3 </vcount>
+          <p>0 0 0 0 1 1 1 1 2 2 2 2 0 0 3 3 2 2 4 4 3 3 5 5 16 4 6 6 17 5 7 7 18 6 8 8 16 4 9 9 18 6 10 10 19 7 11 11</p>
+        </polylist>
+        <polylist material="TTR_SMStone04a-material" count="7">
+          <input semantic="VERTEX" source="#TTR_SMRoofGable01-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#TTR_SMRoofGable01-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#TTR_SMRoofGable01-mesh-map-0" offset="2" set="0"/>
+          <input semantic="COLOR" source="#TTR_SMRoofGable01-mesh-colors-Col" offset="3" set="0"/>
+          <vcount>3 3 3 3 3 3 3 </vcount>
+          <p>4 8 12 12 5 9 13 13 6 10 14 14 4 8 15 15 6 10 16 16 7 11 17 17 24 12 18 18 21 12 19 19 23 12 20 20 23 12 21 21 21 12 22 22 20 12 23 23 20 12 24 24 21 12 25 25 22 12 26 26 12 13 27 27 13 14 28 28 14 15 29 29 12 13 30 30 14 15 31 31 15 16 32 32</p>
+        </polylist>
+        <polylist material="material_2_005-material" count="2">
+          <input semantic="VERTEX" source="#TTR_SMRoofGable01-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#TTR_SMRoofGable01-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#TTR_SMRoofGable01-mesh-map-0" offset="2" set="0"/>
+          <input semantic="COLOR" source="#TTR_SMRoofGable01-mesh-colors-Col" offset="3" set="0"/>
+          <vcount>3 3 </vcount>
+          <p>8 17 33 33 9 17 34 34 10 17 35 35 8 17 36 36 10 17 37 37 11 17 38 38</p>
+        </polylist>
+        <polylist material="TTR_SMCityWall01e-material" count="3">
+          <input semantic="VERTEX" source="#TTR_SMRoofGable01-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#TTR_SMRoofGable01-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#TTR_SMRoofGable01-mesh-map-0" offset="2" set="0"/>
+          <input semantic="COLOR" source="#TTR_SMRoofGable01-mesh-colors-Col" offset="3" set="0"/>
+          <vcount>3 3 3 </vcount>
+          <p>25 18 39 39 26 19 40 40 27 20 41 41 28 21 42 42 25 18 43 43 27 20 44 44 29 22 45 45 28 21 46 46 27 20 47 47</p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="TTR_SMRoofGable01" name="TTR_SMRoofGable01" type="NODE">
+        <matrix sid="transform">0.02999997 0 0 7.785578 0 0.02999997 1.31134e-9 0 0 -1.31134e-9 0.02999997 0 0 0 0 1</matrix>
+        <instance_geometry url="#TTR_SMRoofGable01-mesh" name="TTR_SMRoofGable01">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="TTR_SMRoof01-material" target="#TTR_SMRoof01-material">
+                <bind_vertex_input semantic="UVChannel_1" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+              <instance_material symbol="TTR_SMStone04a-material" target="#TTR_SMStone04a-material">
+                <bind_vertex_input semantic="UVChannel_1" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+              <instance_material symbol="material_2_005-material" target="#material_2_005-material">
+                <bind_vertex_input semantic="UVChannel_1" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+              <instance_material symbol="TTR_SMCityWall01e-material" target="#TTR_SMCityWall01e-material">
+                <bind_vertex_input semantic="UVChannel_1" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
