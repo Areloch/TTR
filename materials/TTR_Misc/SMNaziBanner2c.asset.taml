@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMNaziBanner2c"
+    materialDefinitionName="SMNaziBanner2c"
+    imageMap0="@asset=TTR:SMNaziBanner2c_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/SMNaziBanner2c.png">
+    <Material
+        Name="SMNaziBanner2c"
+        mapTo="SMNaziBanner2c">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMNaziBanner2c_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

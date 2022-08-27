@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="BigLeafyTex"
+    materialDefinitionName="BigLeafyTex"
+    imageMap0="@asset=TTR:BigLeafyTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/BigLeafyTex.png">
+    <Material
+        Name="BigLeafyTex"
+        mapTo="BigLeafyTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:BigLeafyTex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

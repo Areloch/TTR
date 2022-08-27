@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMStoWin23"
+    materialDefinitionName="SMStoWin23"
+    imageMap0="@asset=TTR:SMStoWin23_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall/SMStoWin23.png">
+    <Material
+        Name="SMStoWin23"
+        mapTo="SMStoWin23">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMStoWin23_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

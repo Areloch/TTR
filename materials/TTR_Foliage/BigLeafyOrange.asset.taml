@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="BigLeafyOrange"
+    materialDefinitionName="BigLeafyOrange"
+    imageMap0="@asset=TTR:BigLeafyOrange_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/BigLeafyOrange.png">
+    <Material
+        Name="BigLeafyOrange"
+        mapTo="BigLeafyOrange">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:BigLeafyOrange_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

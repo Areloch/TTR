@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="WSteilhandgrTex"
+    materialDefinitionName="WSteilhandgrTex"
+    imageMap0="@asset=TTR:WSteilhandgrTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/WSteilhandgrTex.png">
+    <Material
+        Name="WSteilhandgrTex"
+        mapTo="WSteilhandgrTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:WSteilhandgrTex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

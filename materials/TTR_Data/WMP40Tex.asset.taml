@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="WMP40Tex"
+    materialDefinitionName="WMP40Tex"
+    imageMap0="@asset=TTR:WMP40Tex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/WMP40Tex.png">
+    <Material
+        Name="WMP40Tex"
+        mapTo="WMP40Tex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:WMP40Tex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

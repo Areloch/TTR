@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="win28"
+    materialDefinitionName="win28"
+    imageMap0="@asset=TTR:win28_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Window/win28.png">
+    <Material
+        Name="win28"
+        mapTo="win28">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:win28_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

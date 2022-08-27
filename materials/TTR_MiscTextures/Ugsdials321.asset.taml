@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ugsdials321"
+    materialDefinitionName="Ugsdials321"
+    imageMap0="@asset=TTR:Ugsdials321_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Ugsdials32-1.png">
+    <Material
+        Name="Ugsdials321"
+        mapTo="Ugsdials321">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ugsdials321_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

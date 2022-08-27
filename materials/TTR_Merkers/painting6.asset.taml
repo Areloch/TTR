@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="painting6"
+    materialDefinitionName="painting6"
+    imageMap0="@asset=TTR:painting6_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/painting6.png">
+    <Material
+        Name="painting6"
+        mapTo="painting6">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:painting6_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

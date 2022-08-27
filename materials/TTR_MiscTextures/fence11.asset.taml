@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="fence11"
+    materialDefinitionName="fence11"
+    imageMap0="@asset=TTR:fence11_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/fence1-1.png">
+    <Material
+        Name="fence11"
+        mapTo="fence11">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:fence11_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

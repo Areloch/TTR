@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uambox"
+    materialDefinitionName="Uambox"
+    imageMap0="@asset=TTR:Uambox_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uambox.png">
+    <Material
+        Name="Uambox"
+        mapTo="Uambox">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uambox_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

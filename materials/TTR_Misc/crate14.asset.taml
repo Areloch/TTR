@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="crate14"
+    materialDefinitionName="crate14"
+    imageMap0="@asset=TTR:crate14_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/crate14.png">
+    <Material
+        Name="crate14"
+        mapTo="crate14">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:crate14_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

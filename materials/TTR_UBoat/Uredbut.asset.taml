@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uredbut"
+    materialDefinitionName="Uredbut"
+    imageMap0="@asset=TTR:Uredbut_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Uredbut.png">
+    <Material
+        Name="Uredbut"
+        mapTo="Uredbut">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uredbut_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

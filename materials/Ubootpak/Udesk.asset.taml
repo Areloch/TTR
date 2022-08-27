@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Udesk"
+    materialDefinitionName="Udesk"
+    imageMap0="@asset=TTR:Udesk_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Udesk.png">
+    <Material
+        Name="Udesk"
+        mapTo="Udesk">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Udesk_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

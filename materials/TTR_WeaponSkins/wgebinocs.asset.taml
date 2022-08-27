@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="wgebinocs"
+    materialDefinitionName="wgebinocs"
+    imageMap0="@asset=TTR:wgebinocs_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/wgebinocs.png">
+    <Material
+        Name="wgebinocs"
+        mapTo="wgebinocs">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:wgebinocs_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

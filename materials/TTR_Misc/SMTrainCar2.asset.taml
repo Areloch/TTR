@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMTrainCar2"
+    materialDefinitionName="SMTrainCar2"
+    imageMap0="@asset=TTR:SMTrainCar2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/SMTrainCar2.png">
+    <Material
+        Name="SMTrainCar2"
+        mapTo="SMTrainCar2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMTrainCar2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

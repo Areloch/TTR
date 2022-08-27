@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uacid"
+    materialDefinitionName="Uacid"
+    imageMap0="@asset=TTR:Uacid_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uacid.png">
+    <Material
+        Name="Uacid"
+        mapTo="Uacid">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uacid_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

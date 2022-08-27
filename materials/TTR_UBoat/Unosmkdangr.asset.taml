@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Unosmkdangr"
+    materialDefinitionName="Unosmkdangr"
+    imageMap0="@asset=TTR:Unosmkdangr_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Unosmkdangr.png">
+    <Material
+        Name="Unosmkdangr"
+        mapTo="Unosmkdangr">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Unosmkdangr_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMGermSign21"
+    materialDefinitionName="SMGermSign21"
+    imageMap0="@asset=TTR:SMGermSign21_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/SMGermSign2-1.png">
+    <Material
+        Name="SMGermSign21"
+        mapTo="SMGermSign21">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMGermSign21_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

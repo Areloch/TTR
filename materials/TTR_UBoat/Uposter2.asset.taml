@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uposter2"
+    materialDefinitionName="Uposter2"
+    imageMap0="@asset=TTR:Uposter2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Uposter2.png">
+    <Material
+        Name="Uposter2"
+        mapTo="Uposter2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uposter2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="rigvent4"
+    materialDefinitionName="rigvent4"
+    imageMap0="@asset=TTR:rigvent4_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/rigvent4.png">
+    <Material
+        Name="rigvent4"
+        mapTo="rigvent4">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:rigvent4_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="USMedicSkin0"
+    materialDefinitionName="USMedicSkin0"
+    imageMap0="@asset=TTR:USMedicSkin0_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/USMedicSkin0.png">
+    <Material
+        Name="USMedicSkin0"
+        mapTo="USMedicSkin0">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:USMedicSkin0_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

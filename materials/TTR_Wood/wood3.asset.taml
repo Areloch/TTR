@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="wood3"
+    materialDefinitionName="wood3"
+    imageMap0="@asset=TTR:wood3_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wood/wood3.png">
+    <Material
+        Name="wood3"
+        mapTo="wood3">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:wood3_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

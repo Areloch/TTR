@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uhertzfrnt21"
+    materialDefinitionName="Uhertzfrnt21"
+    imageMap0="@asset=TTR:Uhertzfrnt21_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Uhertzfrnt2-1.png">
+    <Material
+        Name="Uhertzfrnt21"
+        mapTo="Uhertzfrnt21">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uhertzfrnt21_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

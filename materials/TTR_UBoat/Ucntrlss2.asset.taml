@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ucntrlss2"
+    materialDefinitionName="Ucntrlss2"
+    imageMap0="@asset=TTR:Ucntrlss2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Ucntrlss2.png">
+    <Material
+        Name="Ucntrlss2"
+        mapTo="Ucntrlss2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ucntrlss2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

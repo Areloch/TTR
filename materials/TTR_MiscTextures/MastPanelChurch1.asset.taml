@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="MastPanelChurch1"
+    materialDefinitionName="MastPanelChurch1"
+    imageMap0="@asset=TTR:MastPanelChurch1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/MastPanelChurch-1.png">
+    <Material
+        Name="MastPanelChurch1"
+        mapTo="MastPanelChurch1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:MastPanelChurch1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

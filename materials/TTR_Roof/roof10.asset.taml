@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="roof10"
+    materialDefinitionName="roof10"
+    imageMap0="@asset=TTR:roof10_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Roof/roof10.png">
+    <Material
+        Name="roof10"
+        mapTo="roof10">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:roof10_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

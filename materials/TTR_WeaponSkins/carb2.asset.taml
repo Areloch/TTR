@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="carb2"
+    materialDefinitionName="carb2"
+    imageMap0="@asset=TTR:carb2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/carb2.png">
+    <Material
+        Name="carb2"
+        mapTo="carb2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:carb2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

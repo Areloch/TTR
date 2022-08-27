@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="JMG422"
+    materialDefinitionName="JMG422"
+    imageMap0="@asset=TTR:JMG422_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/JMG422.png">
+    <Material
+        Name="JMG422"
+        mapTo="JMG422">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:JMG422_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

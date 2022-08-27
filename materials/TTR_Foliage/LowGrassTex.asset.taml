@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="LowGrassTex"
+    materialDefinitionName="LowGrassTex"
+    imageMap0="@asset=TTR:LowGrassTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/LowGrassTex.png">
+    <Material
+        Name="LowGrassTex"
+        mapTo="LowGrassTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:LowGrassTex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

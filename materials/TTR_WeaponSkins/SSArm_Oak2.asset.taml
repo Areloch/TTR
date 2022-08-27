@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SSArm_Oak2"
+    materialDefinitionName="SSArm_Oak2"
+    imageMap0="@asset=TTR:SSArm_Oak2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/SSArm_Oak2.png">
+    <Material
+        Name="SSArm_Oak2"
+        mapTo="SSArm_Oak2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SSArm_Oak2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

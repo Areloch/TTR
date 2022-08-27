@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="PantherTex"
+    materialDefinitionName="PantherTex"
+    imageMap0="@asset=TTR:PantherTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Vehicles/PantherTex.png">
+    <Material
+        Name="PantherTex"
+        mapTo="PantherTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:PantherTex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

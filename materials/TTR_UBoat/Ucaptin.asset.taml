@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ucaptin"
+    materialDefinitionName="Ucaptin"
+    imageMap0="@asset=TTR:Ucaptin_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Ucaptin.png">
+    <Material
+        Name="Ucaptin"
+        mapTo="Ucaptin">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ucaptin_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

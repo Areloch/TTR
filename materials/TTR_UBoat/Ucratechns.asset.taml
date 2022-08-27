@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ucratechns"
+    materialDefinitionName="Ucratechns"
+    imageMap0="@asset=TTR:Ucratechns_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Ucratechns.png">
+    <Material
+        Name="Ucratechns"
+        mapTo="Ucratechns">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ucratechns_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ubxpil"
+    materialDefinitionName="Ubxpil"
+    imageMap0="@asset=TTR:Ubxpil_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ubxpil.png">
+    <Material
+        Name="Ubxpil"
+        mapTo="Ubxpil">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ubxpil_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,16 @@
+<MaterialAsset
+    AssetName="flag_allies_32x16"
+    materialDefinitionName="flag_allies_32x16"
+    imageMap0="@asset=TTR:flag_allies_32x16_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Extra/flag_allies_32x16.png">
+    <Material
+        Name="flag_allies_32x16"
+        mapTo="flag_allies_32x16">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:flag_allies_32x16_ALBEDO"/>
+            <Stages_beginarray
+                DiffuseColor="1 1 1 1"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

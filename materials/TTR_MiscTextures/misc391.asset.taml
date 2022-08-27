@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="misc391"
+    materialDefinitionName="misc391"
+    imageMap0="@asset=TTR:misc391_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/misc39-1.png">
+    <Material
+        Name="misc391"
+        mapTo="misc391">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:misc391_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

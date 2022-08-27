@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="paintBlnk"
+    materialDefinitionName="paintBlnk"
+    imageMap0="@asset=TTR:paintBlnk_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/paintBlnk.png">
+    <Material
+        Name="paintBlnk"
+        mapTo="paintBlnk">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:paintBlnk_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="win9"
+    materialDefinitionName="win9"
+    imageMap0="@asset=TTR:win9_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Window/win9.png">
+    <Material
+        Name="win9"
+        mapTo="win9">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:win9_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

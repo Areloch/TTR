@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Jsandbag"
+    materialDefinitionName="Jsandbag"
+    imageMap0="@asset=TTR:Jsandbag_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/Jsandbag.png">
+    <Material
+        Name="Jsandbag"
+        mapTo="Jsandbag">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Jsandbag_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

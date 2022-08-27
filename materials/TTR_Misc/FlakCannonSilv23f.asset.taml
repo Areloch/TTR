@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="FlakCannonSilv23f"
+    materialDefinitionName="FlakCannonSilv23f"
+    imageMap0="@asset=TTR:FlakCannonSilv23f_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/FlakCannonSilv23f.png">
+    <Material
+        Name="FlakCannonSilv23f"
+        mapTo="FlakCannonSilv23f">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:FlakCannonSilv23f_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="wMK3"
+    materialDefinitionName="wMK3"
+    imageMap0="@asset=TTR:wMK3_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/wMK3.png">
+    <Material
+        Name="wMK3"
+        mapTo="wMK3">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:wMK3_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

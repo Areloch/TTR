@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ubunkwod"
+    materialDefinitionName="Ubunkwod"
+    imageMap0="@asset=TTR:Ubunkwod_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ubunkwod.png">
+    <Material
+        Name="Ubunkwod"
+        mapTo="Ubunkwod">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ubunkwod_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

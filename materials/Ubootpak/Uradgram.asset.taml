@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uradgram"
+    materialDefinitionName="Uradgram"
+    imageMap0="@asset=TTR:Uradgram_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uradgram.png">
+    <Material
+        Name="Uradgram"
+        mapTo="Uradgram">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uradgram_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

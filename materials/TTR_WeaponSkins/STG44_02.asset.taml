@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="STG44_02"
+    materialDefinitionName="STG44_02"
+    imageMap0="@asset=TTR:STG44_02_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/STG44_02.png">
+    <Material
+        Name="STG44_02"
+        mapTo="STG44_02">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:STG44_02_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

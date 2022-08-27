@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ulifblt"
+    materialDefinitionName="Ulifblt"
+    imageMap0="@asset=TTR:Ulifblt_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ulifblt.png">
+    <Material
+        Name="Ulifblt"
+        mapTo="Ulifblt">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ulifblt_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uoutpipey"
+    materialDefinitionName="Uoutpipey"
+    imageMap0="@asset=TTR:Uoutpipey_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uoutpipey.png">
+    <Material
+        Name="Uoutpipey"
+        mapTo="Uoutpipey">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uoutpipey_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

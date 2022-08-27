@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Gold"
+    materialDefinitionName="Gold"
+    imageMap0="@asset=TTR:gold_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/gold.png">
+    <Material
+        Name="Gold"
+        mapTo="gold">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:gold_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

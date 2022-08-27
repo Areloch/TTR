@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uhavsak"
+    materialDefinitionName="Uhavsak"
+    imageMap0="@asset=TTR:Uhavsak_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uhavsak.png">
+    <Material
+        Name="Uhavsak"
+        mapTo="Uhavsak">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uhavsak_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

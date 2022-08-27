@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMSpeaker1"
+    materialDefinitionName="SMSpeaker1"
+    imageMap0="@asset=TTR:SMSpeaker1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/SMSpeaker-1.png">
+    <Material
+        Name="SMSpeaker1"
+        mapTo="SMSpeaker1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMSpeaker1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

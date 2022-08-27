@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="JFlagPole1"
+    materialDefinitionName="JFlagPole1"
+    imageMap0="@asset=TTR:JFlagPole1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/JFlagPole1.png">
+    <Material
+        Name="JFlagPole1"
+        mapTo="JFlagPole1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:JFlagPole1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

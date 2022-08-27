@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMPlaBas57"
+    materialDefinitionName="SMPlaBas57"
+    imageMap0="@asset=TTR:SMPlaBas57_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall/SMPlaBas57.png">
+    <Material
+        Name="SMPlaBas57"
+        mapTo="SMPlaBas57">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMPlaBas57_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

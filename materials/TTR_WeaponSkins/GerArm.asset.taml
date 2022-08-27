@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="GerArm"
+    materialDefinitionName="GerArm"
+    imageMap0="@asset=TTR:GerArm_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/GerArm.png">
+    <Material
+        Name="GerArm"
+        mapTo="GerArm">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:GerArm_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

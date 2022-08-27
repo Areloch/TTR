@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ubed"
+    materialDefinitionName="Ubed"
+    imageMap0="@asset=TTR:Ubed_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ubed.png">
+    <Material
+        Name="Ubed"
+        mapTo="Ubed">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ubed_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

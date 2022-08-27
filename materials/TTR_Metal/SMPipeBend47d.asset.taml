@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMPipeBend47d"
+    materialDefinitionName="SMPipeBend47d"
+    imageMap0="@asset=TTR:SMPipeBend47d_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Metal/SMPipeBend47d.png">
+    <Material
+        Name="SMPipeBend47d"
+        mapTo="SMPipeBend47d">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMPipeBend47d_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

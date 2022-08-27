@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ublokfrst"
+    materialDefinitionName="Ublokfrst"
+    imageMap0="@asset=TTR:Ublokfrst_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Ublokfrst.png">
+    <Material
+        Name="Ublokfrst"
+        mapTo="Ublokfrst">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ublokfrst_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

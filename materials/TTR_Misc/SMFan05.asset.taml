@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMFan05"
+    materialDefinitionName="SMFan05"
+    imageMap0="@asset=TTR:SMFan05_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/SMFan05.png">
+    <Material
+        Name="SMFan05"
+        mapTo="SMFan05">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMFan05_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

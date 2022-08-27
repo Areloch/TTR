@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="MP40MFTex"
+    materialDefinitionName="MP40MFTex"
+    imageMap0="@asset=TTR:MP40MFTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/MP40MFTex.png">
+    <Material
+        Name="MP40MFTex"
+        mapTo="MP40MFTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:MP40MFTex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

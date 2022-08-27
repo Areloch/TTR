@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="Uzucker"
+    materialDefinitionName="Uzucker"
+    imageMap0="@asset=TTR:Uzucker_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uzucker.png">
+    <Material
+        Name="Uzucker"
+        mapTo="Uzucker">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uzucker_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="White"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

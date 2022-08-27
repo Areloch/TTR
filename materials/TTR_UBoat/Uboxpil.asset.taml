@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uboxpil"
+    materialDefinitionName="Uboxpil"
+    imageMap0="@asset=TTR:Uboxpil_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Uboxpil.png">
+    <Material
+        Name="Uboxpil"
+        mapTo="Uboxpil">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uboxpil_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

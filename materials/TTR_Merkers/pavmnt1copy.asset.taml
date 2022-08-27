@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="pavmnt1copy"
+    materialDefinitionName="pavmnt1copy"
+    imageMap0="@asset=TTR:pavmnt1copy_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/pavmnt1copy.png">
+    <Material
+        Name="pavmnt1copy"
+        mapTo="pavmnt1copy">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:pavmnt1copy_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

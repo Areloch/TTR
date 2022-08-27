@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="fol4"
+    materialDefinitionName="fol4"
+    imageMap0="@asset=TTR:fol4_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/fol4.png">
+    <Material
+        Name="fol4"
+        mapTo="fol4">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:fol4_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="vinewall"
+    materialDefinitionName="vinewall"
+    imageMap0="@asset=TTR:vinewall_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/vinewall.png">
+    <Material
+        Name="vinewall"
+        mapTo="vinewall">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:vinewall_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

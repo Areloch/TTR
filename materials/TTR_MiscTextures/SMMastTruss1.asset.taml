@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMMastTruss1"
+    materialDefinitionName="SMMastTruss1"
+    imageMap0="@asset=TTR:SMMastTruss1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/SMMastTruss-1.png">
+    <Material
+        Name="SMMastTruss1"
+        mapTo="SMMastTruss1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMMastTruss1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

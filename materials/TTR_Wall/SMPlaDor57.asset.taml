@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMPlaDor57"
+    materialDefinitionName="SMPlaDor57"
+    imageMap0="@asset=TTR:SMPlaDor57_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall/SMPlaDor57.png">
+    <Material
+        Name="SMPlaDor57"
+        mapTo="SMPlaDor57">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMPlaDor57_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

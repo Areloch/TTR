@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="RedFlare31"
+    materialDefinitionName="RedFlare31"
+    imageMap0="@asset=TTR:RedFlare31_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/RedFlare3-1.png">
+    <Material
+        Name="RedFlare31"
+        mapTo="RedFlare31">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:RedFlare31_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

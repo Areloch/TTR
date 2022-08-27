@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="USkyyy"
+    materialDefinitionName="USkyyy"
+    imageMap0="@asset=TTR:USkyyy_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/USkyyy.png">
+    <Material
+        Name="USkyyy"
+        mapTo="USkyyy">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:USkyyy_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

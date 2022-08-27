@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="v_snowybend"
+    materialDefinitionName="v_snowybend"
+    imageMap0="@asset=TTR:v_snowybend_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Road/v_snowybend.png">
+    <Material
+        Name="v_snowybend"
+        mapTo="v_snowybend">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:v_snowybend_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

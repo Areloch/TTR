@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="post71"
+    materialDefinitionName="post71"
+    imageMap0="@asset=TTR:post71_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/post7-1.png">
+    <Material
+        Name="post71"
+        mapTo="post71">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:post71_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

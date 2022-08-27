@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="silverbadge"
+    materialDefinitionName="silverbadge"
+    imageMap0="@asset=TTR:silverbadge_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Extra/silverbadge.png">
+    <Material
+        Name="silverbadge"
+        mapTo="silverbadge">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:silverbadge_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

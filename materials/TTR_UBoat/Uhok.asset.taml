@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uhok"
+    materialDefinitionName="Uhok"
+    imageMap0="@asset=TTR:Uhok_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Uhok.png">
+    <Material
+        Name="Uhok"
+        mapTo="Uhok">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uhok_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

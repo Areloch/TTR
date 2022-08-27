@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Urofstrut"
+    materialDefinitionName="Urofstrut"
+    imageMap0="@asset=TTR:Urofstrut_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Urofstrut.png">
+    <Material
+        Name="Urofstrut"
+        mapTo="Urofstrut">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Urofstrut_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

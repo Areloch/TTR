@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="st_brg"
+    materialDefinitionName="st_brg"
+    imageMap0="@asset=TTR:st_brg_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Bridge/st_brg.png">
+    <Material
+        Name="st_brg"
+        mapTo="st_brg">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:st_brg_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ufilesz"
+    materialDefinitionName="Ufilesz"
+    imageMap0="@asset=TTR:Ufilesz_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ufilesz.png">
+    <Material
+        Name="Ufilesz"
+        mapTo="Ufilesz">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ufilesz_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

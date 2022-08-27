@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMMinenSign"
+    materialDefinitionName="SMMinenSign"
+    imageMap0="@asset=TTR:SMMinenSign_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/SMMinenSign.png">
+    <Material
+        Name="SMMinenSign"
+        mapTo="SMMinenSign">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMMinenSign_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

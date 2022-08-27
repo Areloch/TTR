@@ -1,0 +1,15 @@
+<MaterialAsset
+    AssetName="DaimlerScout"
+    materialDefinitionName="DaimlerScout"
+    imageMap0="@asset=TTR:DaimlerScout_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/DaimlerScout.png">
+    <Material
+        Name="DaimlerScout"
+        mapTo="DaimlerScout">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseColor="White"
+                DiffuseMapAsset="TTR:DaimlerScout_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="GreenFlare2"
+    materialDefinitionName="GreenFlare2"
+    imageMap0="@asset=TTR:GreenFlare2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/GreenFlare2.png">
+    <Material
+        Name="GreenFlare2"
+        mapTo="GreenFlare2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:GreenFlare2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

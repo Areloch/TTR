@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="Upipes"
+    materialDefinitionName="Upipes"
+    imageMap0="@asset=TTR:Upipes_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Upipes.png">
+    <Material
+        Name="Upipes"
+        mapTo="Upipes">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Upipes_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="White"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

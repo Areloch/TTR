@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="wall169"
+    materialDefinitionName="wall169"
+    imageMap0="@asset=TTR:wall169_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall2/wall169.png">
+    <Material
+        Name="wall169"
+        mapTo="wall169">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:wall169_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

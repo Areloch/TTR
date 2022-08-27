@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="mortar"
+    materialDefinitionName="mortar"
+    imageMap0="@asset=TTR:mortar_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/mortar.png">
+    <Material
+        Name="mortar"
+        mapTo="mortar">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:mortar_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

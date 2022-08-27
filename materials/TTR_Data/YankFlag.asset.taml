@@ -1,0 +1,16 @@
+<MaterialAsset
+    AssetName="YankFlag"
+    materialDefinitionName="YankFlag"
+    imageMap0="@asset=TTR:YankFlag_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/YankFlag.png">
+    <Material
+        Name="YankFlag"
+        mapTo="YankFlag">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:YankFlag_ALBEDO"/>
+            <Stages_beginarray
+                DiffuseColor="White"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

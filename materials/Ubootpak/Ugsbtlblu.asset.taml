@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ugsbtlblu"
+    materialDefinitionName="Ugsbtlblu"
+    imageMap0="@asset=TTR:Ugsbtlblu_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ugsbtlblu.png">
+    <Material
+        Name="Ugsbtlblu"
+        mapTo="Ugsbtlblu">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ugsbtlblu_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

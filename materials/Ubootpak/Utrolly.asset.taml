@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Utrolly"
+    materialDefinitionName="Utrolly"
+    imageMap0="@asset=TTR:Utrolly_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Utrolly.png">
+    <Material
+        Name="Utrolly"
+        mapTo="Utrolly">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Utrolly_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

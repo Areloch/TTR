@@ -1,0 +1,16 @@
+<MaterialAsset
+    AssetName="NamBoat"
+    materialDefinitionName="NamBoat"
+    imageMap0="@asset=TTR:NamBoat_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/NamBoat.png">
+    <Material
+        Name="NamBoat"
+        mapTo="NamBoat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:NamBoat_ALBEDO"/>
+            <Stages_beginarray
+                DiffuseColor="White"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

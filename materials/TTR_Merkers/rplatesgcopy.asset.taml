@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="rplatesgcopy"
+    materialDefinitionName="rplatesgcopy"
+    imageMap0="@asset=TTR:rplatesgcopy_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/r-plates-gcopy.png">
+    <Material
+        Name="rplatesgcopy"
+        mapTo="rplatesgcopy">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:rplatesgcopy_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

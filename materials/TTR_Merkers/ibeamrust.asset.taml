@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="ibeamrust"
+    materialDefinitionName="ibeamrust"
+    imageMap0="@asset=TTR:ibeamrust_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/i-beamrust.png">
+    <Material
+        Name="ibeamrust"
+        mapTo="ibeamrust">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:ibeamrust_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

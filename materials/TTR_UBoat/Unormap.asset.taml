@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Unormap"
+    materialDefinitionName="Unormap"
+    imageMap0="@asset=TTR:Unormap_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Unormap.png">
+    <Material
+        Name="Unormap"
+        mapTo="Unormap">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Unormap_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

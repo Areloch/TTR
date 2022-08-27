@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="mGrass7"
+    materialDefinitionName="mGrass7"
+    imageMap0="@asset=TTR:mGrass7_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Road/mGrass7.png">
+    <Material
+        Name="mGrass7"
+        mapTo="mGrass7">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:mGrass7_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

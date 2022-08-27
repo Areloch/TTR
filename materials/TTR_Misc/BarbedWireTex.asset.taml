@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="BarbedWireTex"
+    materialDefinitionName="BarbedWireTex"
+    imageMap0="@asset=TTR:BarbedWireTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/BarbedWireTex.png">
+    <Material
+        Name="BarbedWireTex"
+        mapTo="BarbedWireTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:BarbedWireTex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

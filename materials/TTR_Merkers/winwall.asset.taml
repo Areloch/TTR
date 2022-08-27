@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="winwall"
+    materialDefinitionName="winwall"
+    imageMap0="@asset=TTR:winwall_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/6winwall.png">
+    <Material
+        Name="winwall"
+        mapTo="winwall">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:winwall_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

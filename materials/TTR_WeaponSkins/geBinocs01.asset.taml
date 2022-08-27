@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="geBinocs01"
+    materialDefinitionName="geBinocs01"
+    imageMap0="@asset=TTR:geBinocs01_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/geBinocs01.png">
+    <Material
+        Name="geBinocs01"
+        mapTo="geBinocs01">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:geBinocs01_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

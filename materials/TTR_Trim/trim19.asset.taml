@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="trim19"
+    materialDefinitionName="trim19"
+    imageMap0="@asset=TTR:trim19_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Trim/trim19.png">
+    <Material
+        Name="trim19"
+        mapTo="trim19">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:trim19_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

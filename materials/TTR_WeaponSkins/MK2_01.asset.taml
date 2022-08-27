@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="MK2_01"
+    materialDefinitionName="MK2_01"
+    imageMap0="@asset=TTR:MK2_01_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/MK2_01.png">
+    <Material
+        Name="MK2_01"
+        mapTo="MK2_01">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:MK2_01_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

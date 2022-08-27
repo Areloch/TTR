@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ujerryc"
+    materialDefinitionName="Ujerryc"
+    imageMap0="@asset=TTR:Ujerryc_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ujerryc.png">
+    <Material
+        Name="Ujerryc"
+        mapTo="Ujerryc">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ujerryc_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

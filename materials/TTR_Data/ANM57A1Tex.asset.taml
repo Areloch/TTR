@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="ANM57A1Tex"
+    materialDefinitionName="ANM57A1Tex"
+    imageMap0="@asset=TTR:ANM57A1Tex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/ANM57A1Tex.png">
+    <Material
+        Name="ANM57A1Tex"
+        mapTo="ANM57A1Tex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:ANM57A1Tex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

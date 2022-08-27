@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Upipes3"
+    materialDefinitionName="Upipes3"
+    imageMap0="@asset=TTR:Upipes3_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Upipes3.png">
+    <Material
+        Name="Upipes3"
+        mapTo="Upipes3">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Upipes3_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

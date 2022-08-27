@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ushlfleg"
+    materialDefinitionName="Ushlfleg"
+    imageMap0="@asset=TTR:Ushlfleg_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ushlfleg.png">
+    <Material
+        Name="Ushlfleg"
+        mapTo="Ushlfleg">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ushlfleg_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

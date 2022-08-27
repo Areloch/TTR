@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Umanlite"
+    materialDefinitionName="Umanlite"
+    imageMap0="@asset=TTR:Umanlite_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Umanlite.png">
+    <Material
+        Name="Umanlite"
+        mapTo="Umanlite">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Umanlite_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

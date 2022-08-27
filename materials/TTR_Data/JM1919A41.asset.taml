@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="JM1919A41"
+    materialDefinitionName="JM1919A41"
+    imageMap0="@asset=TTR:JM1919A41_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/JM1919A41.png">
+    <Material
+        Name="JM1919A41"
+        mapTo="JM1919A41">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:JM1919A41_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

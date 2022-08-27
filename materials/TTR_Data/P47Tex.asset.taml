@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="P47Tex"
+    materialDefinitionName="P47Tex"
+    imageMap0="@asset=TTR:P47Tex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/P47Tex.png">
+    <Material
+        Name="P47Tex"
+        mapTo="P47Tex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:P47Tex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

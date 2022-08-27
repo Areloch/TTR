@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="metal06"
+    materialDefinitionName="metal06"
+    imageMap0="@asset=TTR:metal06_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Urban/metal06.png">
+    <Material
+        Name="metal06"
+        mapTo="metal06">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:metal06_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="sh_wall2"
+    materialDefinitionName="sh_wall2"
+    imageMap0="@asset=TTR:sh_wall2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/sh_wall2.png">
+    <Material
+        Name="sh_wall2"
+        mapTo="sh_wall2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:sh_wall2_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

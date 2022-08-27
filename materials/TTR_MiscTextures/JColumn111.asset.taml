@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="JColumn111"
+    materialDefinitionName="JColumn111"
+    imageMap0="@asset=TTR:JColumn111_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/JColumn11-1.png">
+    <Material
+        Name="JColumn111"
+        mapTo="JColumn111">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:JColumn111_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

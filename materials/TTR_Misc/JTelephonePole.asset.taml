@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="JTelephonePole"
+    materialDefinitionName="JTelephonePole"
+    imageMap0="@asset=TTR:JTelephonePole_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/JTelephonePole.png">
+    <Material
+        Name="JTelephonePole"
+        mapTo="JTelephonePole">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:JTelephonePole_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

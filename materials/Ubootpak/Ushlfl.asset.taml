@@ -1,0 +1,15 @@
+<MaterialAsset
+    AssetName="Ushlfl"
+    materialDefinitionName="Ushlfl"
+    imageMap0="@asset=TTR:Ushlfl_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Ushlfl.png">
+    <Material
+        Name="Ushlfl"
+        mapTo="Ushlfl">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseColor="1 1 1 1"
+                DiffuseMapAsset="TTR:Ushlfl_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

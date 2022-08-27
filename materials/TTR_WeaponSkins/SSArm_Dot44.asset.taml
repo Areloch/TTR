@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SSArm_Dot44"
+    materialDefinitionName="SSArm_Dot44"
+    imageMap0="@asset=TTR:SSArm_Dot44_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/SSArm_Dot44.png">
+    <Material
+        Name="SSArm_Dot44"
+        mapTo="SSArm_Dot44">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SSArm_Dot44_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

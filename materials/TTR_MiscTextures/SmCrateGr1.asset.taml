@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SmCrateGr1"
+    materialDefinitionName="SmCrateGr1"
+    imageMap0="@asset=TTR:SmCrateGr1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/SmCrateGr-1.png">
+    <Material
+        Name="SmCrateGr1"
+        mapTo="SmCrateGr1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SmCrateGr1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

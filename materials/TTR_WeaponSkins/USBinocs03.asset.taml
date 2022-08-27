@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="USBinocs03"
+    materialDefinitionName="USBinocs03"
+    imageMap0="@asset=TTR:USBinocs03_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/USBinocs03.png">
+    <Material
+        Name="USBinocs03"
+        mapTo="USBinocs03">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:USBinocs03_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

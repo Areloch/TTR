@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uinpipe21"
+    materialDefinitionName="Uinpipe21"
+    imageMap0="@asset=TTR:Uinpipe21_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Uinpipe2-1.png">
+    <Material
+        Name="Uinpipe21"
+        mapTo="Uinpipe21">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uinpipe21_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

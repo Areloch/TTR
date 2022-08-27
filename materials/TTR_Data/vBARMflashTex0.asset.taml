@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="vBARMflashTex0"
+    materialDefinitionName="vBARMflashTex0"
+    imageMap0="@asset=TTR:vBARMflashTex0_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/vBARMflashTex0.png">
+    <Material
+        Name="vBARMflashTex0"
+        mapTo="vBARMflashTex0">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:vBARMflashTex0_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

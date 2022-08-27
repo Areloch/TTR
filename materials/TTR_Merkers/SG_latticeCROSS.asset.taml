@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SG_latticeCROSS"
+    materialDefinitionName="SG_latticeCROSS"
+    imageMap0="@asset=TTR:SG_latticeCROSS_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/SG_latticeCROSS.png">
+    <Material
+        Name="SG_latticeCROSS"
+        mapTo="SG_latticeCROSS">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SG_latticeCROSS_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="p38_1"
+    materialDefinitionName="p38_1"
+    imageMap0="@asset=TTR:p38_1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/p38_1.png">
+    <Material
+        Name="p38_1"
+        mapTo="p38_1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:p38_1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="TreeLeaves5"
+    materialDefinitionName="TreeLeaves5"
+    imageMap0="@asset=TTR:TreeLeaves5_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/TreeLeaves5.png">
+    <Material
+        Name="TreeLeaves5"
+        mapTo="TreeLeaves5">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:TreeLeaves5_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

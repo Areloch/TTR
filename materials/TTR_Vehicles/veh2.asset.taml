@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="veh2"
+    materialDefinitionName="veh2"
+    imageMap0="@asset=TTR:veh2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Vehicles/veh2.png">
+    <Material
+        Name="veh2"
+        mapTo="veh2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:veh2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

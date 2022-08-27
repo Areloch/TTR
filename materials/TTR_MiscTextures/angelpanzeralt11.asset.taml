@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="angelpanzeralt11"
+    materialDefinitionName="angelpanzeralt11"
+    imageMap0="@asset=TTR:angelpanzeralt11_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/angelpanzeralt1-1.png">
+    <Material
+        Name="angelpanzeralt11"
+        mapTo="angelpanzeralt11">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:angelpanzeralt11_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMBwallWin1"
+    materialDefinitionName="SMBwallWin1"
+    imageMap0="@asset=TTR:SMBwallWin1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall/SMBwallWin1.png">
+    <Material
+        Name="SMBwallWin1"
+        mapTo="SMBwallWin1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMBwallWin1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

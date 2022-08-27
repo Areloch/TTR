@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="angelpwreckalt2"
+    materialDefinitionName="angelpwreckalt2"
+    imageMap0="@asset=TTR:angelpwreckalt2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/angelpwreckalt2.png">
+    <Material
+        Name="angelpwreckalt2"
+        mapTo="angelpwreckalt2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:angelpwreckalt2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="rigpost"
+    materialDefinitionName="rigpost"
+    imageMap0="@asset=TTR:rigpost_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/rigpost.png">
+    <Material
+        Name="rigpost"
+        mapTo="rigpost">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:rigpost_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

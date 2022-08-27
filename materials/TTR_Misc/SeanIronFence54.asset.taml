@@ -1,0 +1,15 @@
+<MaterialAsset
+    AssetName="SeanIronFence54"
+    materialDefinitionName="SeanIronFence54"
+    imageMap0="@asset=TTR:SeanIronFence54_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/SeanIronFence54.png">
+    <Material
+        Name="SeanIronFence54"
+        mapTo="SeanIronFence54">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseColor="White"
+                DiffuseMapAsset="TTR:SeanIronFence54_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

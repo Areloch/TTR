@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="WM1911Tex"
+    materialDefinitionName="WM1911Tex"
+    imageMap0="@asset=TTR:WM1911Tex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/WM1911Tex.png">
+    <Material
+        Name="WM1911Tex"
+        mapTo="WM1911Tex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:WM1911Tex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="hand"
+    materialDefinitionName="hand"
+    imageMap0="@asset=TTR:hand_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/hand.png">
+    <Material
+        Name="hand"
+        mapTo="hand">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:hand_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

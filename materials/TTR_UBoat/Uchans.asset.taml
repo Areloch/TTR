@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uchans"
+    materialDefinitionName="Uchans"
+    imageMap0="@asset=TTR:Uchans_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Uchans.png">
+    <Material
+        Name="Uchans"
+        mapTo="Uchans">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uchans_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

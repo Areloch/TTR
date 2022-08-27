@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="gr35"
+    materialDefinitionName="gr35"
+    imageMap0="@asset=TTR:gr35_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Ground/gr35.png">
+    <Material
+        Name="gr35"
+        mapTo="gr35">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:gr35_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="White"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

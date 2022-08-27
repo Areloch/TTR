@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="PropPoster41"
+    materialDefinitionName="PropPoster41"
+    imageMap0="@asset=TTR:PropPoster41_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/PropPoster4-1.png">
+    <Material
+        Name="PropPoster41"
+        mapTo="PropPoster41">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:PropPoster41_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

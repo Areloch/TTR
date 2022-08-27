@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMCliff21"
+    materialDefinitionName="SMCliff21"
+    imageMap0="@asset=TTR:SMCliff21_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/SMCliff2-1.png">
+    <Material
+        Name="SMCliff21"
+        mapTo="SMCliff21">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMCliff21_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

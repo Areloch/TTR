@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Door131"
+    materialDefinitionName="Door131"
+    imageMap0="@asset=TTR:Door131_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Door13-1.png">
+    <Material
+        Name="Door131"
+        mapTo="Door131">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Door131_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

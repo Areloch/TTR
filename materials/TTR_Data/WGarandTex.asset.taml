@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="WGarandTex"
+    materialDefinitionName="WGarandTex"
+    imageMap0="@asset=TTR:WGarandTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/WGarandTex.png">
+    <Material
+        Name="WGarandTex"
+        mapTo="WGarandTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:WGarandTex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

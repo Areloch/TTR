@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="stukatex"
+    materialDefinitionName="stukatex"
+    imageMap0="@asset=TTR:stukatex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/stukatex.png">
+    <Material
+        Name="stukatex"
+        mapTo="stukatex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:stukatex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

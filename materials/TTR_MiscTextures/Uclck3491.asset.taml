@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uclck3491"
+    materialDefinitionName="Uclck3491"
+    imageMap0="@asset=TTR:Uclck3491_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Uclck349-1.png">
+    <Material
+        Name="Uclck3491"
+        mapTo="Uclck3491">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uclck3491_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

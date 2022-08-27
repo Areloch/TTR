@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="basenarl"
+    materialDefinitionName="basenarl"
+    imageMap0="@asset=TTR:basenarl_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Concrete/basenarl.png">
+    <Material
+        Name="basenarl"
+        mapTo="basenarl">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:basenarl_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

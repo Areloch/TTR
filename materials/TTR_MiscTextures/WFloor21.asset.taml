@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="WFloor21"
+    materialDefinitionName="WFloor21"
+    imageMap0="@asset=TTR:WFloor21_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/WFloor2-1.png">
+    <Material
+        Name="WFloor21"
+        mapTo="WFloor21">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:WFloor21_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uradio"
+    materialDefinitionName="Uradio"
+    imageMap0="@asset=TTR:Uradio_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uradio.png">
+    <Material
+        Name="Uradio"
+        mapTo="Uradio">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uradio_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

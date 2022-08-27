@@ -1,0 +1,16 @@
+<MaterialAsset
+    AssetName="m1919tripod"
+    materialDefinitionName="m1919tripod"
+    imageMap0="@asset=TTR:m1919tripod_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/m1919tripod.png">
+    <Material
+        Name="m1919tripod"
+        mapTo="m1919tripod">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:m1919tripod_ALBEDO"/>
+            <Stages_beginarray
+                DiffuseColor="White"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

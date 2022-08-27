@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="v_grasspathcross"
+    materialDefinitionName="v_grasspathcross"
+    imageMap0="@asset=TTR:v_grasspathcross_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Road/v_grasspathcross.png">
+    <Material
+        Name="v_grasspathcross"
+        mapTo="v_grasspathcross">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:v_grasspathcross_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

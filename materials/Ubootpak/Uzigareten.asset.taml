@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uzigareten"
+    materialDefinitionName="Uzigareten"
+    imageMap0="@asset=TTR:Uzigareten_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uzigareten.png">
+    <Material
+        Name="Uzigareten"
+        mapTo="Uzigareten">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uzigareten_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

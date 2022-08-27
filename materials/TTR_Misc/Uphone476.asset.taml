@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uphone476"
+    materialDefinitionName="Uphone476"
+    imageMap0="@asset=TTR:Uphone476_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/Uphone476.png">
+    <Material
+        Name="Uphone476"
+        mapTo="Uphone476">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uphone476_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

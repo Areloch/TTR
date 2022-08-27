@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uradmask"
+    materialDefinitionName="Uradmask"
+    imageMap0="@asset=TTR:Uradmask_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Uradmask.png">
+    <Material
+        Name="Uradmask"
+        mapTo="Uradmask">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uradmask_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

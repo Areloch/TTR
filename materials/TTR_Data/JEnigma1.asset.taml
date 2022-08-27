@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="JEnigma1"
+    materialDefinitionName="JEnigma1"
+    imageMap0="@asset=TTR:JEnigma1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/JEnigma1.png">
+    <Material
+        Name="JEnigma1"
+        mapTo="JEnigma1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:JEnigma1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

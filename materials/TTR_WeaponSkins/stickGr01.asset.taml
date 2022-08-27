@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="stickGr01"
+    materialDefinitionName="stickGr01"
+    imageMap0="@asset=TTR:stickGr01_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/stickGr01.png">
+    <Material
+        Name="stickGr01"
+        mapTo="stickGr01">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:stickGr01_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

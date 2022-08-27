@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="trnfenc2"
+    materialDefinitionName="trnfenc2"
+    imageMap0="@asset=TTR:trnfenc2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/trnfenc2.png">
+    <Material
+        Name="trnfenc2"
+        mapTo="trnfenc2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:trnfenc2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

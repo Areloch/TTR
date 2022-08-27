@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="pipetrim1"
+    materialDefinitionName="pipetrim1"
+    imageMap0="@asset=TTR:pipetrim1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/pipetrim1.png">
+    <Material
+        Name="pipetrim1"
+        mapTo="pipetrim1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:pipetrim1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

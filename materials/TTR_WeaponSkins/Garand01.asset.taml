@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Garand01"
+    materialDefinitionName="Garand01"
+    imageMap0="@asset=TTR:Garand01_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/Garand01.png">
+    <Material
+        Name="Garand01"
+        mapTo="Garand01">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Garand01_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

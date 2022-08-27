@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uflurcnty"
+    materialDefinitionName="Uflurcnty"
+    imageMap0="@asset=TTR:Uflurcnty_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uflurcnty.png">
+    <Material
+        Name="Uflurcnty"
+        mapTo="Uflurcnty">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uflurcnty_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

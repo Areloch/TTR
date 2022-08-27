@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="BulletMark2"
+    materialDefinitionName="BulletMark2"
+    imageMap0="@asset=TTR:BulletMark2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/BulletMark2.png">
+    <Material
+        Name="BulletMark2"
+        mapTo="BulletMark2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:BulletMark2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uwarnstor"
+    materialDefinitionName="Uwarnstor"
+    imageMap0="@asset=TTR:Uwarnstor_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Uwarnstor.png">
+    <Material
+        Name="Uwarnstor"
+        mapTo="Uwarnstor">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uwarnstor_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

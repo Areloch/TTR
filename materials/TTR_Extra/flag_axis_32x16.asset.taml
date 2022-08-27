@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="flag_axis_32x16"
+    materialDefinitionName="flag_axis_32x16"
+    imageMap0="@asset=TTR:flag_axis_32x16_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Extra/flag_axis_32x16.png">
+    <Material
+        Name="flag_axis_32x16"
+        mapTo="flag_axis_32x16">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:flag_axis_32x16_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

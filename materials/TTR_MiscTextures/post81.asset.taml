@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="post81"
+    materialDefinitionName="post81"
+    imageMap0="@asset=TTR:post81_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/post8-1.png">
+    <Material
+        Name="post81"
+        mapTo="post81">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:post81_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

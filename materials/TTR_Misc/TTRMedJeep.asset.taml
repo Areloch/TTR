@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="TTRMedJeep"
+    materialDefinitionName="TTRMedJeep"
+    imageMap0="@asset=TTR:TTRMedJeep_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/TTRMedJeep.png">
+    <Material
+        Name="TTRMedJeep"
+        mapTo="TTRMedJeep">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:TTRMedJeep_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

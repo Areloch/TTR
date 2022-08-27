@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMPipeRustRed1"
+    materialDefinitionName="SMPipeRustRed1"
+    imageMap0="@asset=TTR:SMPipeRustRed1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/SMPipeRustRed-1.png">
+    <Material
+        Name="SMPipeRustRed1"
+        mapTo="SMPipeRustRed1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMPipeRustRed1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

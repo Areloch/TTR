@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="gr18"
+    materialDefinitionName="gr18"
+    imageMap0="@asset=TTR:gr18_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Ground/gr18.png">
+    <Material
+        Name="gr18"
+        mapTo="gr18">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:gr18_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

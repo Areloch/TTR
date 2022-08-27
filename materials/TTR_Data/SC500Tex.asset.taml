@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SC500Tex"
+    materialDefinitionName="SC500Tex"
+    imageMap0="@asset=TTR:SC500Tex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/SC500Tex.png">
+    <Material
+        Name="SC500Tex"
+        mapTo="SC500Tex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SC500Tex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

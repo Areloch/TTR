@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="FactBase1"
+    materialDefinitionName="FactBase1"
+    imageMap0="@asset=TTR:FactBase1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Concrete/FactBase1.png">
+    <Material
+        Name="FactBase1"
+        mapTo="FactBase1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:FactBase1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

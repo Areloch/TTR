@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="water01"
+    materialDefinitionName="water01"
+    imageMap0="@asset=TTR:water01_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Urban/water01.png">
+    <Material
+        Name="water01"
+        mapTo="water01">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:water01_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

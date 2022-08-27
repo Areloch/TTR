@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMFlorLight"
+    materialDefinitionName="SMFlorLight"
+    imageMap0="@asset=TTR:SMFlorLight_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/SMFlorLight.png">
+    <Material
+        Name="SMFlorLight"
+        mapTo="SMFlorLight">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMFlorLight_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

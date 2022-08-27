@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="Jsandbag1"
+    materialDefinitionName="Jsandbag1"
+    imageMap0="@asset=TTR:Jsandbag1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Jsandbag-1.png">
+    <Material
+        Name="Jsandbag1"
+        mapTo="Jsandbag1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Jsandbag1_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="White"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

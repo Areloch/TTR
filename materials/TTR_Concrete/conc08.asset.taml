@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="conc08"
+    materialDefinitionName="conc08"
+    imageMap0="@asset=TTR:conc08_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Concrete/conc08.png">
+    <Material
+        Name="conc08"
+        mapTo="conc08">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:conc08_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

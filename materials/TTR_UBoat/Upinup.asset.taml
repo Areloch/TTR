@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Upinup"
+    materialDefinitionName="Upinup"
+    imageMap0="@asset=TTR:Upinup_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Upinup.png">
+    <Material
+        Name="Upinup"
+        mapTo="Upinup">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Upinup_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

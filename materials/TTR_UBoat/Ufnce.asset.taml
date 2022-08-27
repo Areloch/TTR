@@ -1,0 +1,16 @@
+<MaterialAsset
+    AssetName="Ufnce"
+    materialDefinitionName="Ufnce"
+    imageMap0="@asset=TTR:Ufnce_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Ufnce.png">
+    <Material
+        Name="Ufnce"
+        mapTo="Ufnce">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ufnce_ALBEDO"/>
+            <Stages_beginarray
+                DiffuseColor="1 1 1 1"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

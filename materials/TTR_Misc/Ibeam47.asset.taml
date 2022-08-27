@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ibeam47"
+    materialDefinitionName="Ibeam47"
+    imageMap0="@asset=TTR:Ibeam47_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/Ibeam47.png">
+    <Material
+        Name="Ibeam47"
+        mapTo="Ibeam47">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ibeam47_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

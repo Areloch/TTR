@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="ULoker671"
+    materialDefinitionName="ULoker671"
+    imageMap0="@asset=TTR:ULoker671_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/ULoker67-1.png">
+    <Material
+        Name="ULoker671"
+        mapTo="ULoker671">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:ULoker671_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

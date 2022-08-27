@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMDasBootSB13"
+    materialDefinitionName="SMDasBootSB13"
+    imageMap0="@asset=TTR:SMDasBootSB13_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/SMDasBootSB13.png">
+    <Material
+        Name="SMDasBootSB13"
+        mapTo="SMDasBootSB13">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMDasBootSB13_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

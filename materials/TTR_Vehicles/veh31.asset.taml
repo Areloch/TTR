@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="veh31"
+    materialDefinitionName="veh31"
+    imageMap0="@asset=TTR:veh31_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Vehicles/veh31.png">
+    <Material
+        Name="veh31"
+        mapTo="veh31">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:veh31_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="White"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Urayls"
+    materialDefinitionName="Urayls"
+    imageMap0="@asset=TTR:Urayls_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Urayls.png">
+    <Material
+        Name="Urayls"
+        mapTo="Urayls">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Urayls_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

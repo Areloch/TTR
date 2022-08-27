@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="BAR3"
+    materialDefinitionName="BAR3"
+    imageMap0="@asset=TTR:BAR3_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/BAR3.png">
+    <Material
+        Name="BAR3"
+        mapTo="BAR3">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:BAR3_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

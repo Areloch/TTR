@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="TfartRAlt37a"
+    materialDefinitionName="TfartRAlt37a"
+    imageMap0="@asset=TTR:TfartRAlt37a_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Trim/TfartRAlt37a.png">
+    <Material
+        Name="TfartRAlt37a"
+        mapTo="TfartRAlt37a">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:TfartRAlt37a_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

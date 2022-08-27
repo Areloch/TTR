@@ -1,0 +1,15 @@
+<MaterialAsset
+    AssetName="Utyprtr2941"
+    materialDefinitionName="Utyprtr2941"
+    imageMap0="@asset=TTR:Utyprtr2941_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Utyprtr294-1.png">
+    <Material
+        Name="Utyprtr2941"
+        mapTo="Utyprtr2941">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseColor="White"
+                DiffuseMapAsset="TTR:Utyprtr2941_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

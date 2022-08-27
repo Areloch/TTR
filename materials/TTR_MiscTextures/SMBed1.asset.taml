@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMBed1"
+    materialDefinitionName="SMBed1"
+    imageMap0="@asset=TTR:SMBed1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/SMBed-1.png">
+    <Material
+        Name="SMBed1"
+        mapTo="SMBed1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMBed1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

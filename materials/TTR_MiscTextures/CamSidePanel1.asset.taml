@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="CamSidePanel1"
+    materialDefinitionName="CamSidePanel1"
+    imageMap0="@asset=TTR:CamSidePanel1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/CamSidePanel-1.png">
+    <Material
+        Name="CamSidePanel1"
+        mapTo="CamSidePanel1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:CamSidePanel1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

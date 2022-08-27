@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ujact3"
+    materialDefinitionName="Ujact3"
+    imageMap0="@asset=TTR:Ujact3_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Ujact3.png">
+    <Material
+        Name="Ujact3"
+        mapTo="Ujact3">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ujact3_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

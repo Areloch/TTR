@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMBunkWall6"
+    materialDefinitionName="SMBunkWall6"
+    imageMap0="@asset=TTR:SMBunkWall6_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Countryside/SMBunkWall6.png">
+    <Material
+        Name="SMBunkWall6"
+        mapTo="SMBunkWall6">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMBunkWall6_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

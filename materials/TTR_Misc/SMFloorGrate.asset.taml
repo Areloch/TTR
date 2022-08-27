@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMFloorGrate"
+    materialDefinitionName="SMFloorGrate"
+    imageMap0="@asset=TTR:SMFloorGrate_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/SMFloorGrate.png">
+    <Material
+        Name="SMFloorGrate"
+        mapTo="SMFloorGrate">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMFloorGrate_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

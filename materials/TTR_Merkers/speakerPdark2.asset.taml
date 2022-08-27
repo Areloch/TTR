@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="speakerPdark2"
+    materialDefinitionName="speakerPdark2"
+    imageMap0="@asset=TTR:speakerPdark2_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/speakerPdark2.png">
+    <Material
+        Name="speakerPdark2"
+        mapTo="speakerPdark2">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:speakerPdark2_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

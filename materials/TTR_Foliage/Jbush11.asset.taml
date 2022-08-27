@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Jbush11"
+    materialDefinitionName="Jbush11"
+    imageMap0="@asset=TTR:Jbush11_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/Jbush11.png">
+    <Material
+        Name="Jbush11"
+        mapTo="Jbush11">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Jbush11_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

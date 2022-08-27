@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Jcurtain11"
+    materialDefinitionName="Jcurtain11"
+    imageMap0="@asset=TTR:Jcurtain11_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Jcurtain1-1.png">
+    <Material
+        Name="Jcurtain11"
+        mapTo="Jcurtain11">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Jcurtain11_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

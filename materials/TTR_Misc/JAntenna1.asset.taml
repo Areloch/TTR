@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="JAntenna1"
+    materialDefinitionName="JAntenna1"
+    imageMap0="@asset=TTR:JAntenna1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/JAntenna1.png">
+    <Material
+        Name="JAntenna1"
+        mapTo="JAntenna1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:JAntenna1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uchrseat"
+    materialDefinitionName="Uchrseat"
+    imageMap0="@asset=TTR:Uchrseat_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uchrseat.png">
+    <Material
+        Name="Uchrseat"
+        mapTo="Uchrseat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uchrseat_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

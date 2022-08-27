@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Ulight1"
+    materialDefinitionName="Ulight1"
+    imageMap0="@asset=TTR:Ulight1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Road/Ulight1.png">
+    <Material
+        Name="Ulight1"
+        mapTo="Ulight1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Ulight1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

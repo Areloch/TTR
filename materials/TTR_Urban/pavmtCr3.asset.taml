@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="pavmtCr3"
+    materialDefinitionName="pavmtCr3"
+    imageMap0="@asset=TTR:pavmtCr3_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Urban/pavmtCr3.png">
+    <Material
+        Name="pavmtCr3"
+        mapTo="pavmtCr3">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:pavmtCr3_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

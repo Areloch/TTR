@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="WALL99151"
+    materialDefinitionName="WALL99151"
+    imageMap0="@asset=TTR:WALL99151_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall/WALL99-151.png">
+    <Material
+        Name="WALL99151"
+        mapTo="WALL99151">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:WALL99151_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="White"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

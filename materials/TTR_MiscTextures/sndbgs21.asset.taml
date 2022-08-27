@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="sndbgs21"
+    materialDefinitionName="sndbgs21"
+    imageMap0="@asset=TTR:sndbgs21_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/sndbgs2-1.png">
+    <Material
+        Name="sndbgs21"
+        mapTo="sndbgs21">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:sndbgs21_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

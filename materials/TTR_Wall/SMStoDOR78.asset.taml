@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMStoDOR78"
+    materialDefinitionName="SMStoDOR78"
+    imageMap0="@asset=TTR:SMStoDOR78_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall/SMStoDOR78.png">
+    <Material
+        Name="SMStoDOR78"
+        mapTo="SMStoDOR78">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMStoDOR78_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

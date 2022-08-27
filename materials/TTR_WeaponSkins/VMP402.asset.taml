@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="VMP402"
+    materialDefinitionName="VMP402"
+    imageMap0="@asset=TTR:VMP402_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/VMP402.png">
+    <Material
+        Name="VMP402"
+        mapTo="VMP402">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:VMP402_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

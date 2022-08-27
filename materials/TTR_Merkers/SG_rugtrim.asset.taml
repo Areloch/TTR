@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SG_rugtrim"
+    materialDefinitionName="SG_rugtrim"
+    imageMap0="@asset=TTR:SG_rugtrim_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/SG_rugtrim.png">
+    <Material
+        Name="SG_rugtrim"
+        mapTo="SG_rugtrim">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SG_rugtrim_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

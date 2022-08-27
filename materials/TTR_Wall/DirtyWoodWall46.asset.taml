@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="DirtyWoodWall46"
+    materialDefinitionName="DirtyWoodWall46"
+    imageMap0="@asset=TTR:DirtyWoodWall46_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall/DirtyWoodWall46.png">
+    <Material
+        Name="DirtyWoodWall46"
+        mapTo="DirtyWoodWall46">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:DirtyWoodWall46_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

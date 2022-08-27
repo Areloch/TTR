@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SG_smalltrim1"
+    materialDefinitionName="SG_smalltrim1"
+    imageMap0="@asset=TTR:SG_smalltrim1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/SG_smalltrim1.png">
+    <Material
+        Name="SG_smalltrim1"
+        mapTo="SG_smalltrim1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SG_smalltrim1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

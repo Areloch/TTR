@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Usubdek"
+    materialDefinitionName="Usubdek"
+    imageMap0="@asset=TTR:Usubdek_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Usubdek.png">
+    <Material
+        Name="Usubdek"
+        mapTo="Usubdek">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Usubdek_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

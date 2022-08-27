@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="windirt"
+    materialDefinitionName="windirt"
+    imageMap0="@asset=TTR:windirt_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/4windirt.png">
+    <Material
+        Name="windirt"
+        mapTo="windirt">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:windirt_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

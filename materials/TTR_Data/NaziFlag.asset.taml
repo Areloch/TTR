@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="NaziFlag"
+    materialDefinitionName="NaziFlag"
+    imageMap0="@asset=TTR:NaziFlag_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/NaziFlag.png">
+    <Material
+        Name="NaziFlag"
+        mapTo="NaziFlag">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:NaziFlag_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="JRootTree1"
+    materialDefinitionName="JRootTree1"
+    imageMap0="@asset=TTR:JRootTree1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/JRootTree1.png">
+    <Material
+        Name="JRootTree1"
+        mapTo="JRootTree1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:JRootTree1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

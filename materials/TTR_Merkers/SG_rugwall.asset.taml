@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SG_rugwall"
+    materialDefinitionName="SG_rugwall"
+    imageMap0="@asset=TTR:SG_rugwall_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/SG_rugwall.png">
+    <Material
+        Name="SG_rugwall"
+        mapTo="SG_rugwall">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SG_rugwall_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

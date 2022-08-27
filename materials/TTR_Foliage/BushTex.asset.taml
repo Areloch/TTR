@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="BushTex"
+    materialDefinitionName="BushTex"
+    imageMap0="@asset=TTR:BushTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/BushTex.png">
+    <Material
+        Name="BushTex"
+        mapTo="BushTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:BushTex_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="White"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

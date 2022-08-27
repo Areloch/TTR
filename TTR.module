@@ -1,0 +1,11 @@
+<ModuleDefinition
+    ModuleId="TTR"
+    VersionId="1"
+    Group="Game"
+    scriptFile="TTR.tscript"
+    CreateFunction="onCreate"
+    DestroyFunction="onDestroy">
+    <DeclaredAssets
+        Extension="asset.taml"
+        Recurse="true"/>
+</ModuleDefinition>

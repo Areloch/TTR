@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SMGunContr1"
+    materialDefinitionName="SMGunContr1"
+    imageMap0="@asset=TTR:SMGunContr1_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/SMGunContr-1.png">
+    <Material
+        Name="SMGunContr1"
+        mapTo="SMGunContr1">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SMGunContr1_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

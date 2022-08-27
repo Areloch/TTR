@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SG_fencecopy"
+    materialDefinitionName="SG_fencecopy"
+    imageMap0="@asset=TTR:SG_fencecopy_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/SG_fencecopy.png">
+    <Material
+        Name="SG_fencecopy"
+        mapTo="SG_fencecopy">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SG_fencecopy_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

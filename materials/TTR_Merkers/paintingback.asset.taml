@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="paintingback"
+    materialDefinitionName="paintingback"
+    imageMap0="@asset=TTR:paintingback_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/paintingback.png">
+    <Material
+        Name="paintingback"
+        mapTo="paintingback">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:paintingback_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

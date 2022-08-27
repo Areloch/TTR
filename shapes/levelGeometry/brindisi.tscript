@@ -1,0 +1,7 @@
+
+singleton TSShapeConstructor(brindisifbx)
+{
+   baseShapeAsset = "TTR:brindisi";
+   singleDetailSize = "0";
+   animFPS = "2";
+};

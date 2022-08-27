@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Usubside"
+    materialDefinitionName="Usubside"
+    imageMap0="@asset=TTR:Usubside_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Usubside.png">
+    <Material
+        Name="Usubside"
+        mapTo="Usubside">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Usubside_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

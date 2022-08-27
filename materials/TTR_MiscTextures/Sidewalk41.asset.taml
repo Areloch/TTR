@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Sidewalk41"
+    materialDefinitionName="Sidewalk41"
+    imageMap0="@asset=TTR:Sidewalk41_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Sidewalk4-1.png">
+    <Material
+        Name="Sidewalk41"
+        mapTo="Sidewalk41">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Sidewalk41_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

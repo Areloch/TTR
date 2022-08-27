@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="turf02"
+    materialDefinitionName="turf02"
+    imageMap0="@asset=TTR:turf02_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Urban/turf02.png">
+    <Material
+        Name="turf02"
+        mapTo="turf02">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:turf02_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,10 @@
+<LevelAsset
+    AssetName="BrindisiLevel"
+    LevelFile="@assetFile=BrindisiLevel.mis"
+    LevelName="Brindisi"
+    PostFXPresetFile="@assetFile=BrindisiLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=BrindisiLevel.mis.decals"
+    ForestFile="@assetFile=BrindisiLevel.forest"
+    NavmeshFile="@assetFile=BrindisiLevel.nav"
+    staticObjectAssetDependency0="@asset=TTR:brindisi"
+    VersionId="1"/>

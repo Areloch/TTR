@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="brick04"
+    materialDefinitionName="brick04"
+    imageMap0="@asset=TTR:brick04_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Urban/brick04.png">
+    <Material
+        Name="brick04"
+        mapTo="brick04">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:brick04_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

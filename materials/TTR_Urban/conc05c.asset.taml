@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="conc05c"
+    materialDefinitionName="conc05c"
+    imageMap0="@asset=TTR:conc05c_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Urban/conc05c.png">
+    <Material
+        Name="conc05c"
+        mapTo="conc05c">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:conc05c_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

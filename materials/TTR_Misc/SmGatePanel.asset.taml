@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SmGatePanel"
+    materialDefinitionName="SmGatePanel"
+    imageMap0="@asset=TTR:SmGatePanel_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/SmGatePanel.png">
+    <Material
+        Name="SmGatePanel"
+        mapTo="SmGatePanel">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SmGatePanel_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

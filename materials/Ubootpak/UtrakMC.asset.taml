@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="UtrakMC"
+    materialDefinitionName="UtrakMC"
+    imageMap0="@asset=TTR:UtrakMC_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/UtrakMC.png">
+    <Material
+        Name="UtrakMC"
+        mapTo="UtrakMC">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:UtrakMC_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

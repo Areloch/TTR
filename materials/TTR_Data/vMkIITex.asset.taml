@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="vMkIITex"
+    materialDefinitionName="vMkIITex"
+    imageMap0="@asset=TTR:vMkIITex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Data/vMkIITex.png">
+    <Material
+        Name="vMkIITex"
+        mapTo="vMkIITex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:vMkIITex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

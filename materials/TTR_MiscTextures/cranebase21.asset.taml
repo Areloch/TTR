@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="cranebase21"
+    materialDefinitionName="cranebase21"
+    imageMap0="@asset=TTR:cranebase21_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/cranebase2-1.png">
+    <Material
+        Name="cranebase21"
+        mapTo="cranebase21">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:cranebase21_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

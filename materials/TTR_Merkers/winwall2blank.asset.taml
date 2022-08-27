@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="winwall2blank"
+    materialDefinitionName="winwall2blank"
+    imageMap0="@asset=TTR:winwall2blank_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/6winwall2blank.png">
+    <Material
+        Name="winwall2blank"
+        mapTo="winwall2blank">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:winwall2blank_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

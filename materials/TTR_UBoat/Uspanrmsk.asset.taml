@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uspanrmsk"
+    materialDefinitionName="Uspanrmsk"
+    imageMap0="@asset=TTR:Uspanrmsk_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Uspanrmsk.png">
+    <Material
+        Name="Uspanrmsk"
+        mapTo="Uspanrmsk">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uspanrmsk_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

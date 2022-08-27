@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Utyprtr"
+    materialDefinitionName="Utyprtr"
+    imageMap0="@asset=TTR:Utyprtr_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Utyprtr.png">
+    <Material
+        Name="Utyprtr"
+        mapTo="Utyprtr">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Utyprtr_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

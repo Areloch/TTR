@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="st_bmpbrgtop"
+    materialDefinitionName="st_bmpbrgtop"
+    imageMap0="@asset=TTR:st_bmpbrgtop_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Bridge/st_bmpbrgtop.png">
+    <Material
+        Name="st_bmpbrgtop"
+        mapTo="st_bmpbrgtop">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:st_bmpbrgtop_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

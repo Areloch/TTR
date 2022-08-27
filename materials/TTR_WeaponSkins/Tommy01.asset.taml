@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Tommy01"
+    materialDefinitionName="Tommy01"
+    imageMap0="@asset=TTR:Tommy01_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_WeaponSkins/Tommy01.png">
+    <Material
+        Name="Tommy01"
+        mapTo="Tommy01">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Tommy01_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

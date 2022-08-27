@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="BunchTreesTex"
+    materialDefinitionName="BunchTreesTex"
+    imageMap0="@asset=TTR:BunchTreesTex_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Foliage/BunchTreesTex.png">
+    <Material
+        Name="BunchTreesTex"
+        mapTo="BunchTreesTex">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:BunchTreesTex_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

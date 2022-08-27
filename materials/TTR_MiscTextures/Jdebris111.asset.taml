@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Jdebris111"
+    materialDefinitionName="Jdebris111"
+    imageMap0="@asset=TTR:Jdebris111_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/Jdebris11-1.png">
+    <Material
+        Name="Jdebris111"
+        mapTo="Jdebris111">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Jdebris111_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

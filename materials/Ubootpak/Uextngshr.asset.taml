@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uextngshr"
+    materialDefinitionName="Uextngshr"
+    imageMap0="@asset=TTR:Uextngshr_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/Ubootpak/Uextngshr.png">
+    <Material
+        Name="Uextngshr"
+        mapTo="Uextngshr">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uextngshr_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

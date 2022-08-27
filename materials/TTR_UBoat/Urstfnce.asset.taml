@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="Urstfnce"
+    materialDefinitionName="Urstfnce"
+    imageMap0="@asset=TTR:Urstfnce_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_UBoat/Urstfnce.png">
+    <Material
+        Name="Urstfnce"
+        mapTo="Urstfnce">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Urstfnce_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="White"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

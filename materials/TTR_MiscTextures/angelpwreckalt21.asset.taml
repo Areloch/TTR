@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="angelpwreckalt21"
+    materialDefinitionName="angelpwreckalt21"
+    imageMap0="@asset=TTR:angelpwreckalt21_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_MiscTextures/angelpwreckalt2-1.png">
+    <Material
+        Name="angelpwreckalt21"
+        mapTo="angelpwreckalt21">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:angelpwreckalt21_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

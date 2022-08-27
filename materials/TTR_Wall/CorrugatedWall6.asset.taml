@@ -1,0 +1,18 @@
+<MaterialAsset
+    AssetName="CorrugatedWall6"
+    materialDefinitionName="CorrugatedWall6"
+    imageMap0="@asset=TTR:CorrugatedWall6_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Wall/CorrugatedWall6.png">
+    <Material
+        Name="CorrugatedWall6"
+        mapTo="CorrugatedWall6">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:CorrugatedWall6_ALBEDO"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

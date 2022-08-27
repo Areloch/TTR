@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Uladr"
+    materialDefinitionName="Uladr"
+    imageMap0="@asset=TTR:Uladr_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Trim/Uladr.png">
+    <Material
+        Name="Uladr"
+        mapTo="Uladr">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:Uladr_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

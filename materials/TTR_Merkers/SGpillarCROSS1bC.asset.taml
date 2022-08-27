@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="SGpillarCROSS1bC"
+    materialDefinitionName="SGpillarCROSS1bC"
+    imageMap0="@asset=TTR:SGpillarCROSS1bC_ALBEDO"
+    originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Merkers/SGpillarCROSS1bC.png">
+    <Material
+        Name="SGpillarCROSS1bC"
+        mapTo="SGpillarCROSS1bC">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="TTR:SGpillarCROSS1bC_ALBEDO"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>
