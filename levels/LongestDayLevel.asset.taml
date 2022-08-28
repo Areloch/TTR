@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="LongestDayLevel"
+    LevelFile="@assetFile=LongestDayLevel.mis"
+    LevelName="The Longest Day"
+    PostFXPresetFile="@assetFile=LongestDayLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=LongestDayLevel.mis.decals"
+    ForestFile="@assetFile=LongestDayLevel.forest"
+    NavmeshFile="@assetFile=LongestDayLevel.nav"
+    VersionId="1"/>

@@ -1,60 +1,58 @@
 //--- OBJECT WRITE BEGIN ---
-new Scene(BrindisiLevel) {
+new Scene(LongestDayLevel) {
    isEditing = "1";
       Enabled = "1";
-      originalAssetName = "BrindisiLevel";
+      originalAssetName = "LongestDayLevel";
 
    new LevelInfo(theLevelInfo) {
-      fogColor = "0.6 0.6 0.7 1";
-      fogDensityOffset = "700";
-      canvasClearColor = "110 108 108 255";
-      fallbackAmbient = "1 0.991102 0.991102 1";
+      fogColor = "0.502886 0.502886 0.508881 1";
+      fogDensity = "0.01";
+      fogDensityOffset = "100";
+      fogAtmosphereHeight = "20";
+      canvasClearColor = "127 126 126 255";
+      fallbackAmbient = "0.502886 0.496933 0.496933 1";
       soundAmbience = "AudioAmbienceDefault";
          Enabled = "1";
    };
    new ScatterSky() {
-      ambientScale = "1 0.991102 0.991102 1";
-      azimuth = "320";
-      elevation = "50";
-      brightness = "1.5";
+      skyBrightness = "10";
+      sunScale = "0.283149 0.278894 0.278894 1";
+      ambientScale = "0.262251 0.262251 0.262251 1";
+      fogScale = "0.496933 0.496933 0.496933 1";
+      azimuth = "50";
+      elevation = "75";
+      brightness = "2";
       MoonMatAsset = "Core_Rendering:moon_wglow";
       useNightCubemap = "1";
       nightCubemap = "nightCubemap";
-      shadowDistance = "75";
-      fadeStartDistance = "50";
-      position = "-1495.32 1445.28 0";
+      overDarkFactor = "20 20 20 10";
          mieScattering = "0.0045";
    };
    new CloudLayer() {
       TextureAsset = "Core_Rendering:clouds_normal_displacement_image";
-      coverage = "0.2";
-      position = "3.8791 -8.32674 -1.84185";
+      coverage = "1";
+      height = "3";
    };
    new Skylight() {
-      position = "-1.88385 -34.2835 46.5817";
+      position = "1.37009 -5.23561 46.5817";
       persistentId = "d5eb3afb-dced-11e9-a423-bb0e346e3870";
          dirtyGameObject = "0";
    };
    new TSStatic() {
-      ShapeAsset = "TTR:brindisi";
-      playAmbient = "0";
-      collisionType = "Visible Mesh";
-      decalType = "Visible Mesh";
-      allowPlayerStep = "1";
-      position = "83.9311 90.8509 0.429367";
+      ShapeAsset = "TTR:longestDay";
+      position = "-29.2799 101.685 -0.0748978";
    };
-   new WaterBlock() {
+   new WaterPlane() {
       baseColor = "45 108 171 255";
-      specularPower = "256";
       waveDir[0] = "0 1";
       waveDir[1] = "0.707 0.707";
       waveDir[2] = "0.5 0.86";
       waveSpeed[0] = "1";
       waveSpeed[1] = "1";
       waveSpeed[2] = "1";
-      waveMagnitude[0] = "0.1";
-      waveMagnitude[1] = "0.1";
-      waveMagnitude[2] = "0.1";
+      waveMagnitude[0] = "0.2";
+      waveMagnitude[1] = "0.2";
+      waveMagnitude[2] = "0.2";
       RippleTex = "Core_Rendering:ripple_image";
       RippleTexAsset = "Core_Rendering:ripple_image";
       rippleDir[0] = "0 1";
@@ -66,29 +64,12 @@ new Scene(BrindisiLevel) {
       rippleTexScale[0] = "7.14 7.14";
       rippleTexScale[1] = "6.25 12.5";
       rippleTexScale[2] = "50 50";
-      rippleMagnitude[0] = "0.5";
-      rippleMagnitude[1] = "0.5";
-      overallRippleMagnitude = "0.5";
+      overallRippleMagnitude = "1";
       FoamTex = "Core_Rendering:foam_image";
       FoamTexAsset = "Core_Rendering:foam_image";
       DepthGradientTex = "Core_Rendering:depthcolor_ramp_image";
       DepthGradientTexAsset = "Core_Rendering:depthcolor_ramp_image";
-      position = "0 0 -1.84185";
-   };
-   new NavMesh(Nav) {
-      CellSize = "0.1";
-      actorHeight = "1.8";
-      position = "-10.1335 0 8.05952";
-      scale = "190 130 30";
-   };
-   new SimGroup(CameraBookmarks) {
-
-      new CameraBookmark() {
-         dataBlock = "CameraBookmarkMarker";
-         position = "-2.05558 11.0424 4.02532";
-         rotation = "0.00863741 -0.0405397 0.999141 155.965";
-         internalName = "NewCamera_0";
-      };
+      position = "0 0 2.08508";
    };
 };
 //--- OBJECT WRITE END ---

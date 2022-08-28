@@ -1,0 +1,7 @@
+
+singleton TSShapeConstructor(longestDayfbx)
+{
+   baseShapeAsset = "TTR:longestDay";
+   singleDetailSize = "0";
+   animFPS = "2";
+};
