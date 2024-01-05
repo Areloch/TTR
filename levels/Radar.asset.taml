@@ -1,0 +1,10 @@
+<LevelAsset
+    AssetName="Radar"
+    AssetDescription="A hypothetical assault on a radar installation near a small town."
+    LevelFile="@assetFile=Radar.mis"
+    LevelName="Radar"
+    PostFXPresetFile="@assetFile=Radar.postfxpreset.tscript"
+    DecalsFile="@assetFile=Radar.mis.decals"
+    ForestFile="@assetFile=Radar.forest"
+    NavmeshFile="@assetFile=Radar.nav"
+    VersionId="1"/>

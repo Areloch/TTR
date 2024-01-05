@@ -1,16 +1,16 @@
 //--- OBJECT WRITE BEGIN ---
 new Scene(BrindisiLevel) {
    isEditing = "1";
-      Enabled = "1";
+      enabled = "1";
       originalAssetName = "BrindisiLevel";
 
    new LevelInfo(theLevelInfo) {
-      fogColor = "0.6 0.6 0.7 1";
+      FogColor = "0.6 0.6 0.7 1";
       fogDensityOffset = "700";
       canvasClearColor = "110 108 108 255";
-      fallbackAmbient = "1 0.991102 0.991102 1";
       soundAmbience = "AudioAmbienceDefault";
-         Enabled = "1";
+         enabled = "1";
+         fallbackAmbient = "1 0.991102 0.991102 1";
    };
    new ScatterSky() {
       ambientScale = "1 0.991102 0.991102 1";
@@ -88,6 +88,7 @@ new Scene(BrindisiLevel) {
          position = "-2.05558 11.0424 4.02532";
          rotation = "0.00863741 -0.0405397 0.999141 155.965";
          internalName = "NewCamera_0";
+            firstDataCheck = "1";
       };
    };
 };
