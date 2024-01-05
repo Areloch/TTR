@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(merderetfbx)
+{
+   baseShapeAsset = "TTR:merderet_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="CountrysideLevel"
+    LevelFile="@assetFile=CountrysideLevel.mis"
+    LevelName="Countryside"
+    PostFXPresetFile="@assetFile=CountrysideLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=CountrysideLevel.mis.decals"
+    ForestFile="@assetFile=CountrysideLevel.forest"
+    NavmeshFile="@assetFile=CountrysideLevel.nav"
+    VersionId="1"/>

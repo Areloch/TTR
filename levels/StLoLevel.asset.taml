@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="StLoLevel"
+    LevelFile="@assetFile=StLoLevel.mis"
+    LevelName="St. Lo"
+    PostFXPresetFile="@assetFile=StLoLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=StLoLevel.mis.decals"
+    ForestFile="@assetFile=StLoLevel.forest"
+    NavmeshFile="@assetFile=StLoLevel.nav"
+    VersionId="1"/>

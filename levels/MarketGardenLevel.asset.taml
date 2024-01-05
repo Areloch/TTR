@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="MarketGardenLevel"
+    LevelFile="@assetFile=MarketGardenLevel.mis"
+    LevelName="Market Garden"
+    PostFXPresetFile="@assetFile=MarketGardenLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=MarketGardenLevel.mis.decals"
+    ForestFile="@assetFile=MarketGardenLevel.forest"
+    NavmeshFile="@assetFile=MarketGardenLevel.nav"
+    VersionId="1"/>

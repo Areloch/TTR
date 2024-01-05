@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(neunenfbx)
+{
+   baseShapeAsset = "TTR:neunen_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

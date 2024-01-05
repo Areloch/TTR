@@ -5,7 +5,9 @@
     originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/misc22.png">
     <Material
         Name="misc22"
-        mapTo="misc22">
+        mapTo="misc22"
+        alphaTest="true"
+        alphaRef="33">
         <Material.Stages>
             <Stages_beginarray
                 DiffuseMapAsset="TTR:misc22_ALBEDO"/>

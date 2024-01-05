@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(radarfbx)
+{
+   baseShapeAsset = "TTR:radar_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

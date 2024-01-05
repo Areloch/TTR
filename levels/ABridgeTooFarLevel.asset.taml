@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="ABridgeTooFarLevel"
+    LevelFile="@assetFile=ABridgeTooFarLevel.mis"
+    LevelName="A Bridge Too Far"
+    PostFXPresetFile="@assetFile=ABridgeTooFarLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=ABridgeTooFarLevel.mis.decals"
+    ForestFile="@assetFile=ABridgeTooFarLevel.forest"
+    NavmeshFile="@assetFile=ABridgeTooFarLevel.nav"
+    VersionId="1"/>

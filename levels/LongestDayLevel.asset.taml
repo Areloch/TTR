@@ -6,4 +6,5 @@
     DecalsFile="@assetFile=LongestDayLevel.mis.decals"
     ForestFile="@assetFile=LongestDayLevel.forest"
     NavmeshFile="@assetFile=LongestDayLevel.nav"
+    staticObjectAssetDependency0="@asset=TTR:LongestDay"
     VersionId="1"/>

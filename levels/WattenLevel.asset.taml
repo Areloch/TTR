@@ -1,0 +1,10 @@
+<LevelAsset
+    AssetName="WattenLevel"
+    AssetDescription="An attack on a V2 rocket facility."
+    LevelFile="@assetFile=WattenLevel.mis"
+    LevelName="Watten"
+    PostFXPresetFile="@assetFile=WattenLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=WattenLevel.mis.decals"
+    ForestFile="@assetFile=WattenLevel.forest"
+    NavmeshFile="@assetFile=WattenLevel.nav"
+    VersionId="1"/>

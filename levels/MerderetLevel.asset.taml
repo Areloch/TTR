@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="MerderetLevel"
+    LevelFile="@assetFile=MerderetLevel.mis"
+    LevelName="Merderet"
+    PostFXPresetFile="@assetFile=MerderetLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=MerderetLevel.mis.decals"
+    ForestFile="@assetFile=MerderetLevel.forest"
+    NavmeshFile="@assetFile=MerderetLevel.nav"
+    VersionId="1"/>

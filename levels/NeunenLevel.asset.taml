@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="NeunenLevel"
+    LevelFile="@assetFile=NeunenLevel.mis"
+    LevelName="Neunen"
+    PostFXPresetFile="@assetFile=NeunenLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=NeunenLevel.mis.decals"
+    ForestFile="@assetFile=NeunenLevel.forest"
+    NavmeshFile="@assetFile=NeunenLevel.nav"
+    VersionId="1"/>

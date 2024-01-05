@@ -5,10 +5,17 @@
     originalFilePath="C:/dev/Projects/TTR/TTRGame/My Projects/TTR/game/data/TTR/materials/TTR_Misc/misc17.png">
     <Material
         Name="misc17"
-        mapTo="misc17">
+        mapTo="misc17"
+        alphaTest="true"
+        alphaRef="20">
         <Material.Stages>
             <Stages_beginarray
-                DiffuseMapAsset="TTR:misc17_ALBEDO"/>
+                DiffuseMapAsset="TTR:misc17_ALBEDO"
+                doubleSided="true"/>
         </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
     </Material>
 </MaterialAsset>

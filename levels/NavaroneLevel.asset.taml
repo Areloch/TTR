@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="NavaroneLevel"
+    LevelFile="@assetFile=NavaroneLevel.mis"
+    LevelName="Navarone"
+    PostFXPresetFile="@assetFile=NavaroneLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=NavaroneLevel.mis.decals"
+    ForestFile="@assetFile=NavaroneLevel.forest"
+    NavmeshFile="@assetFile=NavaroneLevel.nav"
+    VersionId="1"/>

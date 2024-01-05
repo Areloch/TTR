@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(merkersfbx)
+{
+   baseShapeAsset = "TTR:merkers_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

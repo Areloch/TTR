@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(forestfbx)
+{
+   baseShapeAsset = "TTR:forest_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(wattenfbx)
+{
+   baseShapeAsset = "TTR:watten_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

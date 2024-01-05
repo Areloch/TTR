@@ -1,23 +1,23 @@
 //--- OBJECT WRITE BEGIN ---
 new Scene(LongestDayLevel) {
    isEditing = "1";
-      Enabled = "1";
+      enabled = "1";
       originalAssetName = "LongestDayLevel";
 
    new LevelInfo(theLevelInfo) {
-      fogColor = "0.502886 0.502886 0.508881 1";
-      fogDensity = "0.01";
+      FogColor = "0.502886 0.502886 0.508881 1";
+      FogDensity = "0.01";
       fogDensityOffset = "100";
       fogAtmosphereHeight = "20";
       canvasClearColor = "127 126 126 255";
-      fallbackAmbient = "0.502886 0.496933 0.496933 1";
       soundAmbience = "AudioAmbienceDefault";
-         Enabled = "1";
+         enabled = "1";
+         fallbackAmbient = "0.502886 0.496933 0.496933 1";
    };
    new ScatterSky() {
       skyBrightness = "10";
-      sunScale = "0.283149 0.278894 0.278894 1";
-      ambientScale = "0.262251 0.262251 0.262251 1";
+      sunScale = "0.783538 0.775822 0.775822 1";
+      ambientScale = "0.814847 0.806952 0.806952 1";
       fogScale = "0.496933 0.496933 0.496933 1";
       azimuth = "50";
       elevation = "75";
@@ -39,7 +39,7 @@ new Scene(LongestDayLevel) {
          dirtyGameObject = "0";
    };
    new TSStatic() {
-      ShapeAsset = "TTR:longestDay";
+      ShapeAsset = "TTR:LongestDay";
       position = "-29.2799 101.685 -0.0748978";
    };
    new WaterPlane() {

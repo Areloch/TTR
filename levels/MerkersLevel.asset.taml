@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="MerkersLevel"
+    LevelFile="@assetFile=MerkersLevel.mis"
+    LevelName="Merkers"
+    PostFXPresetFile="@assetFile=MerkersLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=MerkersLevel.mis.decals"
+    ForestFile="@assetFile=MerkersLevel.forest"
+    NavmeshFile="@assetFile=MerkersLevel.nav"
+    VersionId="1"/>

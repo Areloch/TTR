@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(himmelsfbx)
+{
+   baseShapeAsset = "TTR:himmels_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

@@ -1,0 +1,11 @@
+<LevelAsset
+    AssetName="DasBootLevel"
+    LevelFile="@assetFile=DasBootLevel.mis"
+    LevelName="Das Boot"
+    PostFXPresetFile="@assetFile=DasBootLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=DasBootLevel.mis.decals"
+    ForestFile="@assetFile=DasBootLevel.forest"
+    NavmeshFile="@assetFile=DasBootLevel.nav"
+    staticObjectAssetDependency0="@asset=Prototyping:FloorGray"
+    staticObjectAssetDependency1="@asset=TTR:dasBoot_shape"
+    VersionId="1"/>

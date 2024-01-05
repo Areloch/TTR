@@ -1,0 +1,10 @@
+<LevelAsset
+    AssetName="HimmelsLevel"
+    AssetDescription="A raid on an armored train."
+    LevelFile="@assetFile=HimmelsLevel.mis"
+    LevelName="Himmels"
+    PostFXPresetFile="@assetFile=HimmelsLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=HimmelsLevel.mis.decals"
+    ForestFile="@assetFile=HimmelsLevel.forest"
+    NavmeshFile="@assetFile=HimmelsLevel.nav"
+    VersionId="1"/>

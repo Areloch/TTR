@@ -1,0 +1,9 @@
+<LevelAsset
+    AssetName="BesiegedLevel"
+    LevelFile="@assetFile=BesiegedLevel.mis"
+    LevelName="Besieged"
+    PostFXPresetFile="@assetFile=BesiegedLevel.postfxpreset.tscript"
+    DecalsFile="@assetFile=BesiegedLevel.mis.decals"
+    ForestFile="@assetFile=BesiegedLevel.forest"
+    NavmeshFile="@assetFile=BesiegedLevel.nav"
+    VersionId="1"/>
